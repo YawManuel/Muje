@@ -342,7 +342,7 @@ grid-template-columns: 1fr 1fr;
   .mobile-phone-rx {
    display: block; 
    margin-top: 10px; 
-  margin-left: 17vw; 
+  margin-left: 20vw; 
   }
 }
 @media (max-width: 280px) {
