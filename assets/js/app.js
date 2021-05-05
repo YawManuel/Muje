@@ -2,17 +2,17 @@
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
-    job: "web developer",
+    name: "Susan Smith",
+    job: "Baker",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+    "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
   },
   {
     id: 2,
-    name: "anna johnson",
-    job: "web designer",
+    name: "Anna Johnson",
+    job: "Hair dresser",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
     text:
@@ -20,8 +20,8 @@ const reviews = [
   },
   {
     id: 3,
-    name: "peter jones",
-    job: "intern",
+    name: "Peter Jones",
+    job: "Lab Technician",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
     text:
@@ -29,8 +29,8 @@ const reviews = [
   },
   {
     id: 4,
-    name: "bill anderson",
-    job: "the boss",
+    name: "Bill Anderson",
+    job: "Car dealer",
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
     text:
